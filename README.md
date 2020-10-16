@@ -5,4 +5,4 @@ It took long hours for users to create visualizations but now using MyWonder it 
 We distribute files on cloud which makes it really efficient. 
 MyWonder can help users calculate their analytics and summaries from their phones before joining a meeting. 
 
-The link to the project documentation can be found [here](http://data.un.org)
+The link to the project documentation can be found [here](https://pratishtha9.github.io/MyWonder/)
