@@ -15,4 +15,14 @@ MyWonder is a platform for big data analytics and visualization. It took long ho
 **Defects:**
  - Users don't understand terminologies like 'test visualization' which makes it inappropriate for demos
   
+### Deliverables
+
+- Change terminology and contents
+- Separate testing and production environments
+- Add “Note” in visualizations
+- Create visualization examples with explaination
+- Create a Powerpoint presentation
+- Create a Documentation
+
+### Milestones
   
