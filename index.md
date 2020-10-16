@@ -28,3 +28,4 @@ MyWonder is a platform for big data analytics and visualization. It took long ho
 
 ### Gantt Diagram
   
+![Screenshot](gantt_chart.png)
