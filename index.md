@@ -6,7 +6,7 @@ MyWonder is a platform for big data analytics and visualization. It took long ho
 
 ### Identified Wastes
 **Waiting:**
-   A lot of time is spend by the CEO contacting the customer assistance team which takes time from his meetings with clients. 
+ - []  A lot of time is spend by the CEO contacting the customer assistance team which takes time from his meetings with clients. 
    A lot of time is also spent by the customer support talking to the designer and the designers talking to the developers.
    
 **Over-Processing:**
